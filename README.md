@@ -1,4 +1,4 @@
-# Face-Eye-Detection-Using-Haar-Cascades-with-OpenCV-
+# Face-Eye-Detection-Using-Haar-Cascades-with-OpenCV
 I Analyzed, Trained &amp; Created a Model which detects Face &amp; Eyes from the feeded image.
 <n/> Try Code Only over Jupyter NoteBook!
 Currently It can only be used for images containing a single face.. A Simple One..
